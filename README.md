@@ -1,6 +1,6 @@
 # Ohm's Law Calculator
 
-EECE 2140 — Week 2, Part A (solved example)
+EECE 2140 — MiniProject#01 Part A
 
 ## Purpose
 A terminal program that reads a voltage (V) and a resistance (Ω) and prints the current using Ohm's law, I = V / R. Invalid input is rejected before any calculation is done.
